@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app\t.js",
+  "scripts": {
+    "test": "\"no test so far\"",
+    "start": "node app.js"
+  },
+  "author": "Bhargav Bachina",
+  "license": "ISC",
+  "dependencies": {
+    "angular-modal-service": "^0.10.1",
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^4.8.1",
+    "nodemailer": "^3.1.5",
+    "request": "^2.81.0"
+  }
+}
